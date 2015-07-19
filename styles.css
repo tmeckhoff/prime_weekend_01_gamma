@@ -1,0 +1,91 @@
+body {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+#employeeForm {
+	font: 25px Arial, Helvetica, sans-serif;
+	max-width: 600px;
+	margin: 10px auto;
+	background-color: #F7F7F7;
+	box-shadow: 0 0 5px #FF1919;
+	padding: 3%;
+	border: 1px solid #FF1919;
+}
+
+input {
+	display: block;
+	margin: 15px 15px 15px 45px;
+	width: 80%;
+	padding: 3%;
+	font-size: 55%;
+}
+
+#employeeForm h1{
+	background-color: #FF1919;
+	padding: 20px 0;
+	font-size: 140%;
+	font-weight: 300;
+	text-align: center;
+	color: #fff;
+	margin: -16px -16px 16px -16px;
+}
+
+.submit {
+	background-color: #FF1919;
+	border-bottom: 2px solid #FF0000;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;	
+	color: #fff;
+	display: block;
+	margin: 15px 15px 15px 65px;
+	width: 80%;
+	padding: 3%;
+	font-size: 75%;
+}
+
+
+.employee {
+	float: left;
+	margin-right: 10px;
+	font: 15px Arial, Helvetica, sans-serif;
+	max-width: 100%;
+	margin: 10px 10px 10px 10px;
+	background-color: #F7F7F7;
+	box-shadow: 0 0 5px #000000;
+	padding: 3%;
+	border: 1px solid #000000;
+}
+
+
+.employeeButton {
+	background-color: #D3D3D3;
+	border-bottom: 2px solid #A9A9A9;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;	
+	color: #000000;
+	font-size: 100%;
+}
+
+.review1{
+background-color: #FF0000;
+}
+
+.review2{
+background-color: #FF6600;
+}
+
+.review3{
+background-color: #CCFF33;
+}
+
+.review4{
+background-color: #66FF33;
+}
+
+.review5 {
+background-color: #009933;
+}
