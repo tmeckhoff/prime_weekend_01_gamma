@@ -22,7 +22,7 @@ input {
 	font-size: 55%;
 }
 
-#employeeForm h1{
+#employeeForm h1 {
 	background-color: #FF1919;
 	padding: 20px 0;
 	font-size: 140%;
@@ -70,19 +70,19 @@ input {
 	font-size: 100%;
 }
 
-.review1{
+.review1 {
 background-color: #FF0000;
 }
 
-.review2{
+.review2 {
 background-color: #FF6600;
 }
 
-.review3{
+.review3 {
 background-color: #CCFF33;
 }
 
-.review4{
+.review4 {
 background-color: #66FF33;
 }
 
